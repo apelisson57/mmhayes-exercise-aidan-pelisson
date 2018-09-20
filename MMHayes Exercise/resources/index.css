@@ -1,0 +1,53 @@
+/* index.css */
+
+body {
+	background-color: #ddddff;
+}
+
+#header {
+	text-align: center;
+	margin-top: 30px;
+}
+
+#formWrapper {
+	text-align: center;
+	margin-top: 30px;
+	border: solid 5px #003366;
+	border-radius: 5px;
+}
+
+.message {
+	padding-top: 10px;
+}
+
+
+#form {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#form label {
+	font-weight: bold;
+}
+
+
+.textWrapper {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+#currentEmployee {
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+#submitButton {
+	background-color: #003366;
+	border-color: #003366;
+}
+
+.redBorder {
+	border: solid 2px #ff0000;
+	border-radius: 1px;
+}
